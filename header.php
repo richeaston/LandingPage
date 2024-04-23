@@ -6,12 +6,12 @@
 
     <title>Internal-IT Console</title>
 
-    <meta name="description" content="Source code generated using layoutit.com">
-    <meta name="author" content="LayoutIt!">
+    <meta name="description" content="Custom Landing page with tiles">
+    <meta name="author" content="Richard Easton">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-	<link href="mystyle.css" rel="stylesheet">
+    <link href="mystyle.css" rel="stylesheet">
 	
   </head>
   <body class="mybg">
